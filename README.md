@@ -1,1 +1,1 @@
-# proj4-map
+A map application that opens with Eugene centered and a zoom factor of 15. The map can be dragged to access another location or zoomed in and out. When a point on the map is cliked, a pin is displayed in a closed state and can be clicked again to access the address of the location the pin was originally placed. Multiple pins can be placed and they will hold their specific locations address.
